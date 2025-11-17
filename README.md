@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Jute Parser**, Rust code genrater for appache jute **Rust**.
+- 🔭 I’m currently working on **Jute Parser**, Rust code genrater for **Appache jute**.
 
 - 🌱 I’m currently learning **Parsing, AST Generation and Code Generation**.
 
