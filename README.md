@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Whispering Woods**, a GFS implementation in **Rust**.
+- 🔭 I’m currently working on **Jute Parser**, Rust code genrater for appache jute **Rust**.
 
-- 🌱 I’m currently learning **Instrumentation, gRPC, and Protocol Development**.
+- 🌱 I’m currently learning **Parsing, AST Generation and Code Generation**.
 
 - 💬 Let's talk about **Rust, Memory Safety, Borrow Checker, Async, and Concurrency**.
 
