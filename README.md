@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Jute Parser**, Rust code genrater for **Appache jute**.
+- 🔭 I’m currently working on **Cuendillar**, Rust Crate for **Embeded, Persistant, LSM Based Database**.
 
-- 🌱 I’m currently learning **Parsing, AST Generation and Code Generation**.
+- 🌱 I’m currently learning **Memtable, SSTables, WAL And Rust Macros**.
 
 - 💬 Let's talk about **Rust, Memory Safety, Borrow Checker, Async, and Concurrency**.
 
